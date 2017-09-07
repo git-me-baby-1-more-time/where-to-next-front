@@ -15,7 +15,7 @@ module.exports = [
 
   {
     name: 'Barcelona',
-    lat: 1.3977,
+    lat: 41.3977,
     long: -2.1353
   },
 
