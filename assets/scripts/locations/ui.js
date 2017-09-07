@@ -61,7 +61,6 @@ const centerMap = function () {
   map.setZoom(12)
 }
 
-
 const locationSelected = function () {
   updateLocationDisplay()
   showLocationDisplay()
